@@ -1,0 +1,10 @@
+.body{
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+.side-compos{
+    position: relative;
+}

@@ -1,0 +1,56 @@
+.courses-img{
+    width: 670px;
+    height: 380px;
+    margin-top: 5px;
+    border-radius: 8px;
+}
+.course{
+    position: relative;
+}
+.course-compo{
+    width: 680px;
+    height: 650px;
+    border: 2px solid rgb(200, 228, 249);
+    background-color: rgb(251, 251, 251);
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+.author-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 200px;
+}
+.author-name-and-date{
+    line-height: 4px;
+    margin-top: -6px;
+    margin-left: 10px;
+}
+.author-info{
+    display: flex;
+}
+.author-info-miniuts{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.tag-and-btn{
+margin-right: 450px;
+line-height: 10px;
+}
+.tag-and-btn button{
+    margin-right: 90px;
+    color: blue;
+    text-decoration: underline;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.book-mark-btn{
+    background: none;
+    border: none;
+}
+.book-mark-btn:focus{
+    color: orange;
+}

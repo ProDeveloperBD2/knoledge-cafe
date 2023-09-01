@@ -1,0 +1,22 @@
+.side-compo{
+    position: sticky;
+    top: 5px;
+    margin-left: 10px;
+}
+.mark-as-read{
+    background-color: rgb(234, 234, 234);
+    color: slateblue;
+    border: 2px solid slateblue;
+    border-radius: 10px;
+}
+.book-mark-area{
+    margin-top: 20px;
+    background-color: rgb(234, 234, 234);
+    padding: 20px;
+    border-radius: 10px;
+}
+.book-mark-container{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+}
